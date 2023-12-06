@@ -19,7 +19,7 @@ function lanzarDado() {
     echo $valoresDado[$resultado];
     return $resultado;
 }
-
+//Cambio con git
 // Jugador Rojo
 $jugadorRojo = [];
 echo "<b>Jugador 1:</b>";
